@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardesp&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![richardesp's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardesp&show_icons=true&count_private=true)](https://github.com/richardesp/github-readme-stats)
 
 
 </details>
