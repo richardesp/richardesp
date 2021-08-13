@@ -78,5 +78,5 @@ Here are some ideas to get you started:
 </details>
 
 [twitter]: https://twitter.com/richardesp16
-[instagram]: https://instagram.com/richardesp16
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/richardesp_16
+[linkedin]: https://www.linkedin.com/in/ricardo-espantale%C3%B3n-p%C3%A9rez-328b0a1b4/?originalSubdomain=es
