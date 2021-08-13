@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 Actualmente soy alumno colaborador en el departamento de Informática y Análisis Numérico en la Universidad de Córdoba y colaborador 
      en la Universidad Loyola Andalucía
 - 🥅 Objetivos: Ir expandiendo mis conocimientos e ir creando proyectos personales para subir a github
-- 🤓 Información: Estoy abierto a cualquier tipo de colaboración!!
+- 🤓 Colaboración: Estoy abierto a cualquier tipo de colaboración!!
 
 ### Conecta conmigo:
 
@@ -77,6 +77,6 @@ Here are some ideas to get you started:
 
 </details>
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/richardesp16
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
