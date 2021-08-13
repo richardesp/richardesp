@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ### 📕 Últimas certificaciones
 
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Cybersecurity Fundamentals - IBM](https://www.credly.com/badges/6b18ad11-f0dd-40e5-8373-e72f491cad7e?source=linked_in_profile)
+- [Watson va a clase: Fundamentos de Inteligencia Artificial](https://www.credly.com/badges/2c88bb78-9b2f-412c-8c89-c781eccc2170?source=linked_in_profile)
 
 ---
 
