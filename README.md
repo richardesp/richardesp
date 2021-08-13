@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 🤖 Estoy expandiendo mis conocimientos hacia el back-end, Data Science y las redes convolucionales aplicadas a la inteligencia artificial
 - 👯 Actualmente soy alumno colaborador en el departamento de Informática y Análisis Numérico en la Universidad de Córdoba y colaborador 
      en la Universidad Loyola Andalucía
-- 🥅 Objetivos: Ir expandiendo mis conocimientos e ir creando proyectos personales para subir a github
-- 🤓 Colaboración: Estoy abierto a cualquier tipo de colaboración!!
+- 🥅 Ir expandiendo mis conocimientos e ir creando proyectos personales para subir a github
+- 🤓 ¡Estoy abierto a cualquier tipo de colaboración!
 
 ### Conecta conmigo:
 
