@@ -78,9 +78,9 @@ Here are some ideas to get you started:
   <br>
   <summary>:zap: GitHub Stats</summary>
 
-  [![richardesp's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardesp&count_private=true&show_icons=true&theme=highcontrast)
+  ![richardesp's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardesp&count_private=true&show_icons=true&theme=highcontrast)
      
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardesp)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
