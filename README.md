@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+  <br>
   
 <!--START_SECTION:activity-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardesp&repo=todit)](https://github.com/richardesp/todit)
