@@ -77,6 +77,8 @@ Here are some ideas to get you started:
   ![richardesp's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardesp&count_private=true&show_icons=true&theme=highcontrast)
      
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardesp)](https://github.com/richardesp/richardesp)
+     
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardesp&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
