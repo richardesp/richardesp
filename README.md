@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Ricardo 👋
 
-## SI am a student of Computer Engineering at UCO, majoring in Computer Science.
+## I am a student of Computer Engineering at UCO, majoring in Computer Science.
 
 - 🔭 I am starting to create small personal projects
 - 🤖 I am expanding my knowledge into data science and machine learning.
