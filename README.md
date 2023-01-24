@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
 <img align="left" alt="Flask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" />
-
+<img align="left" alt="Flask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" />
+<img align="left" alt="Flask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 
 <br />
 <br />
