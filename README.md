@@ -12,17 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hola, Soy Ricardo 👋
+### Hi, I'm Ricardo 👋
 
-## Soy estudiante de Ingeniería Informática en la UCO
+## SI am a student of Computer Engineering at UCO, majoring in Computer Science.
 
-- 🔭 Estoy comenzando a crear pequeños proyectos personales
-- 🤖 Estoy expandiendo mis conocimientos hacia el back-end, Data Science y las redes convolucionales aplicadas a la inteligencia artificial
-- 👯 Actualmente soy alumno colaborador en el departamento de Informática y Análisis Numérico en la Universidad de Córdoba
-- 🥅 Ir expandiendo mis conocimientos e ir creando proyectos personales para subir a github
-- 🤓 ¡Estoy abierto a cualquier tipo de colaboración!
+- 🔭 I am starting to create small personal projects
+- 🤖 I am expanding my knowledge into data science and machine learning.
+- 👯 I am currently a student collaborator in the Department of Computer Science and Numerical Analysis at the University of Cordoba.
+- 🥅 Expanding my knowledge and creating personal projects to upload to github.
+- 🤓 I am open to any kind of collaboration!
 
-### Conecta conmigo:
+### Connect with me:
 
 [<img align="left" alt="richardesp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="richardesp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 
 <br />
 
-### Lenguajes de programación y herramientas:
+### Programming languages and tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -47,16 +46,18 @@ Here are some ideas to get you started:
 <img align="left" alt="C#" width="26px" src="https://img2.freepng.es/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
+<img align="left" alt="Flask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" />
+
 
 <br />
 <br />
 
 ---
 
-### 📕 Últimas certificaciones
+### 📕 Latest certifications
 
 - [Cybersecurity Fundamentals - IBM](https://www.credly.com/badges/6b18ad11-f0dd-40e5-8373-e72f491cad7e?source=linked_in_profile)
-- [Watson va a clase: Fundamentos de Inteligencia Artificial](https://www.credly.com/badges/2c88bb78-9b2f-412c-8c89-c781eccc2170?source=linked_in_profile)
+- [Watson Goes to Class: Fundamentals of Artificial Intelligence](https://www.credly.com/badges/2c88bb78-9b2f-412c-8c89-c781eccc2170?source=linked_in_profile)
 
 ---
 
