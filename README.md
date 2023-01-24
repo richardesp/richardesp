@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardesp&repo=todit)](https://github.com/richardesp/todit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardesp&repo=Masked-Face-Detection)](https://github.com/richardesp/Masked-Face-Detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardesp&repo=cudaKNN)](https://github.com/richardesp/cudaKNN)
 <!--END_SECTION:activity-->
 
 </details>
