@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm Ricardo 👋
+### Hi, I'm Ricardo Espantaleón Pérez 👋
 
 ## I am a student of Computer Engineering at UCO, majoring in Computer Science.
 
