@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ## Computer Engineer with a specialization in Computer Science from the University of Córdoba.
 
 - 🔭 I am starting to create small personal projects
-- 🤖 I am expanding my knowledge into data science and machine learning.
-- 👯 I am currently a student collaborator in the Department of Computer Science and Numerical Analysis at the University of Cordoba.
-- 🥅 Expanding my knowledge and creating personal projects to upload to github.
+- 🤖 I am expanding my knowledge into data science and machine learning
+- 👯 I am currently a student collaborator in the Department of Computer Science and Numerical Analysis at the University of Cordoba
+- 🥅 Expanding my knowledge and creating personal projects to upload to github
 - 🤓 I am open to any kind of collaboration!
-- 📫 You can contact me at the email respantaleonp@outlook.es.
+- 📫 You can contact me at the email respantaleonp@outlook.es
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://www.linkedin.com/in/franciscojavierespantale%C3%B3np%C3%A9rez/](https://www.linkedin.com/in/respantaleonp/?locale=en_US)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" /></a>
